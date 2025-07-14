@@ -179,10 +179,3 @@ Made with ❤️ by [**sk-jiyad**](https://github.com/sk-jiyad)
 
 This project is open-source and available under the [MIT License](LICENSE)
 
-## 🙌 Author
-
-Made with ❤️ by [**sk-jiyad**](https://github.com/sk-jiyad)
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE)
