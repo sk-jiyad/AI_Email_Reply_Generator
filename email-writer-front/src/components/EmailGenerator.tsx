@@ -69,7 +69,7 @@ const EmailGenerator: React.FC = () => {
       <div className="w-full max-w-[1200px] mx-auto px-4 py-8">
         <header className="text-center mb-8">
           <h1 className="text-foreground text-4xl font-bold leading-10 mb-4 max-md:text-[32px] max-sm:text-[28px]">
-            Email Reply Generator
+            AI Email Reply Generator
           </h1>
           <p className="text-muted-foreground text-lg font-normal leading-7 max-md:text-base max-sm:text-sm">
             Generate professional email responses with AI assistance
