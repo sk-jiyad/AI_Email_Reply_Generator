@@ -167,7 +167,7 @@ AI_Email_Reply_Generator/
 
 ## 📸 Preview
 
-[preview] (https://github.com/sk-jiyad/AI_Email_Reply_Generator/blob/main/Preview/Screenshot%202025-07-14%20114305.png)
+![preview](https://github.com/sk-jiyad/AI_Email_Reply_Generator/blob/main/Preview/Screenshot%202025-07-14%20114305.png)
 
 
 
